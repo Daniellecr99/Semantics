@@ -10,3 +10,9 @@ body {
     background-image:url(./images/clouds.jpg);
     background-size: cover;
 }
+.links {
+    text-align: center;
+}
+#quote {
+    opacity: .5;
+}
