@@ -1,0 +1,12 @@
+h1 {
+    color: rebeccapurple;
+    font-family:cursive;
+}
+main {
+    text-align: center;
+
+}
+body {
+    background-image:url(./images/clouds.jpg);
+    background-size: cover;
+}
