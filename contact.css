@@ -1,4 +1,8 @@
 body {
-    background-image:url(./images/wayo.jpg);
+    background-image:url(./images/beigecrystals.jpg);
     background-size: cover;
+}
+#Contact {
+    color:indianred;
+    opacity: .75;
 }
